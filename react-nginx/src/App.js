@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Why doesn't this add text?</p>
       </header>
     </div>
   );
